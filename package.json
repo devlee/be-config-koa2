@@ -1,0 +1,32 @@
+{
+  "name": "be-config-koa2",
+  "version": "0.0.1",
+  "description": "Back End Config Of Koa2",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlee/be-config-koa2.git"
+  },
+  "keywords": [
+    "Config",
+    "Koa2"
+  ],
+  "author": "devlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devlee/be-config-koa2/issues"
+  },
+  "homepage": "https://github.com/devlee/be-config-koa2#readme",
+  "dependencies": {
+    "koa": "^2.0.0",
+    "koa-router": "^7.0.1"
+  },
+  "devDependencies": {
+    "ts-node": "^0.7.3",
+    "typescript": "^1.8.10"
+  }
+}
